@@ -7,6 +7,7 @@ local lock_constants = (require "lock_constants")
 
 local YALE_FINGERPRINT_MAX_CODES = 0x1E
 
+
 local YALE_FINGERPRINT_LOCK = {
   { mfr = "ASSA ABLOY iRevo", model = "iZBModule01" },
   { mfr = "ASSA ABLOY iRevo", model = "c700000202" },
